@@ -1,0 +1,6 @@
+[Desktop Entry]
+  Exec=/bin/sh -c "\\$HOME/bin/enotes.sh"
+  Icon=gedit
+  Name=Canoe Notes
+  Path=/usr/bin
+  Type=Application
